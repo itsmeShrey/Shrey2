@@ -1,0 +1,21 @@
+h1:hover{
+  color:  blue;
+  font-style: italic;
+}
+img{
+  background-color: gold;
+}
+body{
+  background-color: #EAF6F6;
+  color: #00CC00;
+  font-style: italic;
+}
+/*.heading{
+  color: red;
+}
+#try{
+  color: green;
+}*/
+h1{
+  color: red;
+}
